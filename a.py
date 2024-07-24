@@ -8,3 +8,6 @@ print(a)
 print(a)
 print(a)
 print(a)
+b=20
+print(b)
+print(b)
